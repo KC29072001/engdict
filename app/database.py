@@ -1,3 +1,4 @@
+# using llm 
 # import json
 # import faiss
 # import numpy as np
@@ -33,9 +34,14 @@ import faiss
 import numpy as np
 from .embeddings import generate_embedding
 
-# Load product reviews
-with open("data/reviews.json", "r") as f:
+# # Load product reviews
+# with open("data/reviews.json", "r") as f:
+#     product_reviews = json.load(f)
+
+# Load product reviews encoded utf-8 
+with open("data/reviews.json", "r", encoding="utf-8") as f:
     product_reviews = json.load(f)
+
 
 # Create embeddings
 embeddings = []

@@ -1,14 +1,74 @@
 [
-    {
-      "product_name": "Numpy",
-      "text": "This widget is excellent for precision engineering tasks. It's durable and easy to use."
-    },
-    {
-      "product_name": "Logger",
-      "text": "Logger is a versatile tool for various engineering applications. It saves time and improves accuracy."
-    },
-    {
-      "product_name": "Autocad",
-      "text": "Autocad is indispensable for mechanical engineering projects. Its ergonomic design reduces fatigue."
-    }
+  {
+    "product_name": "Bluetooth Speaker (Bluetooth-Lautsprecher)",
+    "text": "Dieser Bluetooth-Lautsprecher bietet großartigen Sound und ist leicht zu verbinden."
+},
+{
+    "product_name": "Laptop Stand (Подставка для ноутбука)",
+    "text": "Этот стенд для ноутбука очень устойчивый и улучшает эргономику работы."
+},
+{
+    "product_name": "Smart Watch (Reloj Inteligente)",
+    "text": "Esta reloj inteligente es muy funcional y tiene una larga duración de batería."
+},
+{
+    "product_name": "Microchip (Микросхема)",
+    "text": "Эта микросхема обеспечивает высокую производительность и энергоэффективность."
+},
+{
+    "product_name": "Semiconductor (Полупроводник)",
+    "text": "Este semiconductor es clave para la eficiencia de los dispositivos electrónicos modernos."
+},
+{
+    "product_name": "Portable Charger (Chargeur Portable)",
+    "text": "Ce chargeur portable est compact et a une grande capacité de batterie."
+},
+{
+    "product_name": "Wireless Earbuds (Écouteurs sans Fil)",
+    "text": "Ces écouteurs sans fil offrent une excellente qualité sonore et une connexion stable."
+},
+{
+    "product_name": "Graphics Card (Grafikkarte)",
+    "text": "Diese Grafikkarte bietet beeindruckende Leistung für Gaming und kreative Anwendungen."
+},
+{
+    "product_name": "Processor (Processeur)",
+    "text": "Ce processeur est très rapide et idéal pour les applications gourmandes en ressources."
+},
+{
+    "product_name": "Solid State Drive (SSD)",
+    "text": "Этот твердотельный накопитель обеспечивает быструю загрузку и высокую надежность."
+},
+{
+    "product_name": "Motherboard (Placa Base)",
+    "text": "Esta placa base es muy robusta y permite una excelente conectividad."
+},
+{
+    "product_name": "Power Supply Unit (Bloc d'Alimentation)",
+    "text": "Ce bloc d'alimentation offre une performance stable et silencieuse."
+},
+{
+    "product_name": "RAM (ОЗУ)",
+    "text": "Эта оперативная память обеспечивает высокую скорость и производительность."
+},
+{
+    "product_name": "Router (Rúter)",
+    "text": "Este rúter proporciona una conexión rápida y estable en toda la casa."
+},
+{
+    "product_name": "External Hard Drive (Disque Dur Externe)",
+    "text": "Ce disque dur externe a une grande capacité de stockage et est très fiable."
+},
+{
+    "product_name": "Monitor (Монитор)",
+    "text": "Этот монитор имеет отличное качество изображения и широкий угол обзора."
+},
+{
+    "product_name": "USB Flash Drive (Clé USB)",
+    "text": "Cette clé USB est rapide et a une grande capacité de stockage."
+},
+{
+    "product_name": "Headphones (Kopfhörer)",
+    "text": "Diese Kopfhörer bieten einen klaren Klang und sind sehr bequem zu tragen."
+}
   ]
